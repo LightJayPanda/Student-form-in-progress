@@ -1,6 +1,6 @@
 'use strict';
 
-const MIN_AGE = 1;
+const MIN_AGE = 17;
 const MAX_AGE = 99;
 var course_number = 2;
 var iterator;
